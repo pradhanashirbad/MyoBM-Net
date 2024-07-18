@@ -27,7 +27,7 @@ open reports_notebook/table_all_results.ipynb
 open reports_notebook/plot_all_results.ipynb
 
 ## Acknowledgements
-The author This is currently a reviewer's copy. More details of the work will be made publicly available
+This is currently a reviewer's copy. More details of the work will be made publicly available
 
 
 
